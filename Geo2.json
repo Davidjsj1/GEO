@@ -1,7 +1,7 @@
 [
   {
-    "key" : "VTS_SRV001: Zabbix agent availability",
-    "name" : "VTS_SRV001",
+    "key" : "VTS_SRV001",
+    "name" : "Vitasense",
     "latitude" : -8.03529,
     "longitude" : -34.94984
   },
