@@ -1,6 +1,6 @@
 [
   {
-    "key" : "VTS_SRV001",
+    "key" : "VTS",
     "name" : "Vitasense",
     "latitude" : -8.03529,
     "longitude" : -34.94984
@@ -114,8 +114,8 @@
     "longitude" : -63.8999
   },
   {
-    "key" : "BVAA_COLETOR: Zabbix agent availability",
-    "name" : "Bruno Vanderlei",
+    "key" : "LINK",
+    "name" : "Link Formento",
     "latitude" :  -8.03983,
     "longitude" : -34.88372
   },
