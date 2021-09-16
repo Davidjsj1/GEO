@@ -1,12 +1,13 @@
 [
   {
     "key" : "VTS",
-    "name" : "Vitasense",
     "latitude" : -8.03529,
-    "longitude" : -34.94984
+    "longitude" : -34.94984,
+    "name" : "Vitasense"
+    
   },
   {
-    "key" : "PA",
+    "key" : "TESTE",
     "name" : "Pará",
     "latitude" : -1.4554,
     "longitude" : -48.4898
@@ -19,7 +20,7 @@
   },
   {
     "key" : "RR",
-    "name" : "Roraima",
+    "name" : "Roraima"
     "latitude" : 2.82384,
     "longitude" : -60.6753
   },
@@ -66,7 +67,7 @@
     "longitude" : -49.2643
   },
   {
-    "key" : "PB",
+    "key" : "BVAA",
     "name" : "Paraíba",
     "latitude" : -7.11509,
     "longitude" : -34.8641
