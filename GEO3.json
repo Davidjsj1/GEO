@@ -1,4 +1,5 @@
 [
   {"target": "BVAA", "datapoints": [[-8.03983, -34.88372]]},
-  {"target": "VTS", "datapoints": [[-8.03529, -34.94984]]}
+  {"target": "VTS", "datapoints": [[-8.03529, -34.94984]]},
+  {"target": "LINK", "datapoints": [[-8.03529, -34.94984]]}
 ]
