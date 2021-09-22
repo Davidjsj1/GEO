@@ -1,18 +1,18 @@
 [
   {
-    "key" : "VTS_MKT: SNMP agent availability",
+    "key" : "VTS",
     "latitude" : -8.03529,
     "longitude" : -34.94984,
     "name" : "Vitasense"
   },
   {
-    "key" : "BVAA_COLETOR: Zabbix agent availability",
+    "key" : "BVAA",
     "latitude" : -8.03983,
     "longitude" : -34.88372,
     "name" : "Bruno Vanderlei"
   },
   {
-    "key" : "LINK_FIREWALL: Zabbix agent availability",
+    "key" : "LINK",
     "latitude" : -8.1233833,
     "longitude" : -34.8993987,
     "name" : "LINK FORMENTO"
