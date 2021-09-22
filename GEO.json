@@ -1,12 +1,12 @@
 [
   {
-    "key" : "VTS",
+    "key" : "VTS_MKT",
     "latitude" : -8.03529,
     "longitude" : -34.94984,
     "name" : "Vitasense"
   },
   {
-    "key" : "BVAA",
+    "key" : "BVAA_COLETOR",
     "latitude" : -8.03983,
     "longitude" : -34.88372,
     "name" : "Bruno Vanderlei"
