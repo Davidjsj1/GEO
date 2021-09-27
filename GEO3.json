@@ -22,5 +22,11 @@
     "latitude" : -8.061441097602525,
     "longitude" : -34.89809185994711,
     "name" : "Union Matriz"
+  },
+  {
+    "key" : "CDB_MKT",
+    "latitude" : -8.07117,
+    "longitude" : -34.8841,
+    "name" : "Comando das Bombas"
   }  
 ]
