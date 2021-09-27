@@ -34,5 +34,29 @@
     "latitude" : -8.11148,
     "longitude" : -34.89273,
     "name" : "Comando das Bombas"
-  }  
+  },
+  {
+    "key" : "MAG_MKT",
+    "latitude" : -8.06522,
+    "longitude" : -34.89284,
+    "name" : "Magalhaes Advogados"
+  },
+  {
+    "key" : "MD_MKT",
+    "latitude" : -8.03600,
+    "longitude" : -34.95005,
+    "name" : "MD Locações"
+  },
+  {
+    "key" : "MBRA_MKT",
+    "latitude" : -8.04790,
+    "longitude" : -34.91150,
+    "name" : "Melo Brasil"
+  },
+  {
+    "key" : "NB-MTZ_MKT",
+    "latitude" : -8.10850,
+    "longitude" : -34.95787,
+    "name" : "Novo Borba"
+  }    
 ]
