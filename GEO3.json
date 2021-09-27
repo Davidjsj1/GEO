@@ -28,5 +28,11 @@
     "latitude" : -8.07117,
     "longitude" : -34.88419,
     "name" : "Comando das Bombas"
+  },
+  {
+    "key" : "LPR_FIREWALL",
+    "latitude" : -8.11148,
+    "longitude" : -34.89273,
+    "name" : "Comando das Bombas"
   }  
 ]
