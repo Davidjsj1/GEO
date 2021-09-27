@@ -16,5 +16,11 @@
     "latitude" : -8.1233833,
     "longitude" : -34.8993987,
     "name" : "LINK FORMENTO"
-  }
+  },
+  {
+    "key" : "UNI_MKT_MATRIZ",
+    "latitude" : -8.061441097602525,
+    "longitude" : -34.89809185994711,
+    "name" : "Union Matriz"
+  }  
 ]
