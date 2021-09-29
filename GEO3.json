@@ -58,5 +58,41 @@
     "latitude" : -8.11818, 
     "longitude" : -35.29442,
     "name" : "Novo Borba"
-  }    
+  },
+  {
+    "key" : "MEN_SRV01",
+    "latitude" : -8.0415, 
+    "longitude" : -34.89818,
+    "name" : "Mendes CA"
+  },
+  {
+    "key" : "PDCA_SERVER",
+    "latitude" : -8.02635, 
+    "longitude" : -34.90676,
+    "name" : "PDCA Engenharia"
+  },
+  {
+    "key" : "RBS_MKT-NEW",
+    "latitude" : -8.08978, 
+    "longitude" : -34.88186,
+    "name" : "Rego Barros ADV"
+  },
+  {
+    "key" : "JAN-FIREWALL",
+    "latitude" : -8.06184, 
+    "longitude" : -34.90715,
+    "name" : "Sistema Contabil Janio"
+  },
+  {
+    "key" : "SADR-SERVIDOR",
+    "latitude" : -8.06165, 
+    "longitude" : -34.90641,
+    "name" : "Sistema Contabil Adriana"
+  },
+  {
+    "key" : "SED_SRV01",
+    "latitude" : -5.35343, 
+    "longitude" : -49.10454,
+    "name" : "Sedue Contabilidade"
+  }
 ]
