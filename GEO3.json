@@ -94,5 +94,11 @@
     "latitude" : -5.35343, 
     "longitude" : -49.10454,
     "name" : "Sedue Contabilidade"
+  },
+  {
+    "key" : "CDBT_MKT_MTRIZ",
+    "latitude" : -8.05794, 
+    "longitude" : -34.90727,
+    "name" : "Casa das Baterias"
   }
 ]
