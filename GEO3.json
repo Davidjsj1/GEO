@@ -100,5 +100,11 @@
     "latitude" : -8.05794, 
     "longitude" : -34.90727,
     "name" : "Casa das Baterias"
+  },
+  {
+    "key" : "CDBT_MKT_IPSEP",
+    "latitude" : -8.10631, 
+    "longitude" : -34.92753,
+    "name" : "Casa das Baterias"
   }
 ]
