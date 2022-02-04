@@ -1,21 +1,21 @@
 [
   {
-    "key" : "Matriz",
+    "key" : "SIP1",
     "latitude" : -8.04691,
     "longitude" : -34.88256,
-    "name" : "Voicetec"
+    "name" : "SIP1"
   },
   {
-    "key" : "cliente1",
-    "latitude" : -8.03983,
-    "longitude" : -34.88372,
-    "name" : "Cliente 1"
+    "key" : "SIP2",
+    "latitude" : -8.04691,
+    "longitude" : -34.88256,
+    "name" : "SIP2"
   },
   {
-    "key" : "cliente2",
-    "latitude" : -8.1233833,
-    "longitude" : -34.8993987,
-    "name" : "Cliente 2"
+    "key" : "SIP3",
+    "latitude" : -8.04691,
+    "longitude" : -34.88256,
+    "name" : "SIP3"
   },
   {
     "key" : "cliente3",
