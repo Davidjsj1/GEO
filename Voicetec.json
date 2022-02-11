@@ -7,20 +7,14 @@
   },
   {
     "key" : "SIP2",
-    "latitude" : -8.04691,
-    "longitude" : -34.88256,
-    "name" : "SIP2"
+    "latitude" : -8.10885,
+    "longitude" : -34.91158,
+    "name" : "IMBIRIBEIRA"
   },
   {
     "key" : "SIP3",
-    "latitude" : -8.04691,
-    "longitude" : -34.88256,
-    "name" : "SIP3"
-  },
-  {
-    "key" : "cliente3",
-    "latitude" : -8.061441097602525,
-    "longitude" : -34.89809185994711,
-    "name" : "cliente 3"
+    "latitude" : -8.02436,
+    "longitude" : -34.91147,
+    "name" : "AVNORTE"
   }
 ]
