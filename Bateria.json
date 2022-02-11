@@ -16,5 +16,11 @@
     "latitude" : -8.02436,
     "longitude" : -34.91147,
     "name" : "AVNORTE"
+  },
+  {
+    "key" : "IPSEP",
+    "latitude" : -8.10689, 
+    "longitude" : -34.92737,
+    "name" : "IPSEP"
   }
 ]
