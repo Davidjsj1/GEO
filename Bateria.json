@@ -28,5 +28,11 @@
     "latitude" : -7.99880, 
     "longitude" : -34.84571,
     "name" : "OLINDA"
+  },
+  {
+    "key" : "MADALENA-MKT",
+    "latitude" : -8.05795, 
+    "longitude" : -34.90727,
+    "name" : "MADALENA"
   }
 ]
