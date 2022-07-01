@@ -34,5 +34,17 @@
     "latitude" : -8.05795, 
     "longitude" : -34.90727,
     "name" : "MADALENA"
+  },
+  {
+    "key" : "AGR",
+    "latitude" : -8.04314, 
+    "longitude" : -34.88824,
+    "name" : "AGR"
+  },
+  {
+    "key" : "HLA",
+    "latitude" : -8.05787, 
+    "longitude" : -34.89308,
+    "name" : "HLA"
   }
 ]
