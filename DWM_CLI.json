@@ -36,13 +36,13 @@
     "name" : "MADALENA"
   },
   {
-    "key" : "AGR",
+    "key" : "AGR_MKT",
     "latitude" : -8.04314, 
     "longitude" : -34.88824,
     "name" : "AGR"
   },
   {
-    "key" : "HLA",
+    "key" : "HLA_MKT",
     "latitude" : -8.05787, 
     "longitude" : -34.89308,
     "name" : "HLA"
