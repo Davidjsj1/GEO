@@ -36,13 +36,13 @@
     "name" : "MADALENA"
   },
   {
-    "key" : "AGR_MKT",
+    "key" : "AGR_MKT: SNMP agent availability {host="AGR_MKT", item="SNMP agent availability", item_key="zabbix[host,snmp,available]"}",
     "latitude" : -8.04314, 
     "longitude" : -34.88824,
     "name" : "AGR"
   },
   {
-    "key" : "HLA_MKT",
+    "key" : "HLA_MKT: SNMP agent availability {host="HLA_MKT", item="SNMP agent availability", item_key="zabbix[host,snmp,available]"}",
     "latitude" : -8.05787, 
     "longitude" : -34.89308,
     "name" : "HLA"
