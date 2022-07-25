@@ -64,5 +64,11 @@
     "latitude" : -8.04001,
     "longitude" : -34.89893,
     "name" : "GHBN_ZNBAT"
+  },
+  {
+    "key" : "FOR_MKT_MTZ",
+    "latitude" : -8.11130,
+    "longitude" : -35.01195,
+    "name" : "FOR_MKT_MTZ"
   }
 ]
