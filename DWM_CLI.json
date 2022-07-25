@@ -46,5 +46,23 @@
     "latitude" : -8.05787, 
     "longitude" : -34.89308,
     "name" : "HLA"
+  },
+  {
+    "key" : "GHBN_ABVS1",
+    "latitude" : -8.2944, 
+    "longitude" : -35.0054,
+    "name" : "GHBN_ABVS1"
+  },
+  {
+    "key" : "GHBN_CCME0",
+    "latitude" : -8.16591, 
+    "longitude" : -34.91929,
+    "name" : "GHBN_CCME0"
+  },
+  {
+    "key" : "GHBN_ZNBAT",
+    "latitude" : -8.04001,
+    "longitude" : -34.89893,
+    "name" : "GHBN_ZNBAT"
   }
 ]
