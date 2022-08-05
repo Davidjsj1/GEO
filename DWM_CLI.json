@@ -39,13 +39,13 @@
     "key" : "ALL_AGR_MKT",
     "latitude" : -8.04314, 
     "longitude" : -34.88824,
-    "name" : "AGR"
+    "name" : "ALLTECH_AGR"
   },
   {
     "key" : "ALL_HLA_MKT",
     "latitude" : -8.05787, 
     "longitude" : -34.89308,
-    "name" : "HLA"
+    "name" : "ALLTECH_HLA"
   },
   {
     "key" : "GHBN_ABVS1",
@@ -69,6 +69,6 @@
     "key" : "FOR_MTZ_MKT",
     "latitude" : -8.11130,
     "longitude" : -35.01195,
-    "name" : "FOR_MKT_MTZ"
+    "name" : "FOR_MTZ_MKT"
   }
 ]
