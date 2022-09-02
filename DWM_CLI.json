@@ -36,7 +36,7 @@
     "name" : "MADALENA"
   },
   {
-    "key" : "ALL_AGR_MKT{host="ALL_AGR_MKT",item="SNMP agent availability",item_key="zabbix[host,snmp,available]",
+    "key" : "ALL_AGR_MKT",
     "latitude" : -8.04314, 
     "longitude" : -34.88824,
     "name" : "ALLTECH_AGR"
