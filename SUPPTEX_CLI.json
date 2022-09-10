@@ -42,9 +42,9 @@
     "name" : "MALTA COMEX"
   },
   {
-    "key" : "AEL",
-    "latitude" : -8.037851908429033,
-    "longitude" : -34.88540264526154,
+    "key" : "AEL_LOG",
+    "latitude" : -8.03784,
+    "longitude" : -34.88541,
     "name" : "ABREU E LIMA LOG"
   },
 ]
