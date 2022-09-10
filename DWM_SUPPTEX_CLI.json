@@ -1,75 +1,39 @@
 [
   {
-    "key" : "PINA-MKT",
-    "latitude" : -8.08931,
-    "longitude" : -34.88268,
-    "name" : "PINA"
+    "key" : "RGL",
+    "latitude" : -8.11682, 
+    "longitude" : -34.90116,
+    "name" : "REGALIA"
   },
   {
-    "key" : "IMBIRIBEIRA-MKT",
-    "latitude" : -8.10885,
-    "longitude" : -34.91158,
-    "name" : "IMBIRIBEIRA"
+    "key" : "CWC",
+    "latitude" : -8.05323, 
+    "longitude" : -34.90086,
+    "name" : "COWORKING"
   },
   {
-    "key" : "AVNORTE-MKT",
-    "latitude" : -8.02436,
-    "longitude" : -34.91147,
-    "name" : "AVNORTE"
+    "key" : "MP",
+    "latitude" : -8.01902, 
+    "longitude" : -34.8615
+    "name" : "MARMOPEDRAS"
   },
   {
-    "key" : "IPSEP-MKT",
-    "latitude" : -8.10689, 
-    "longitude" : -34.92737,
-    "name" : "IPSEP"
+    "key" : "JR_CEA",
+    "latitude" : -8.0696, 
+    "longitude" : -34.94655,
+    "name" : "JR CEASA"
   },
   {
-    "key" : "OLINDA-MKT",
-    "latitude" : -7.99880, 
-    "longitude" : -34.84571,
-    "name" : "OLINDA"
+    "key" : "JR_MTZ",
+    "latitude" : -7.92622,  
+    "longitude" : -34.90364,
+    "name" : "JR MATRIZ"
   },
   {
-    "key" : "MADALENA-MKT",
-    "latitude" : -8.05795, 
-    "longitude" : -34.90727,
-    "name" : "MADALENA"
-  },
-  {
-    "key" : "ALL_AGR_MKT",
-    "latitude" : -8.04314, 
-    "longitude" : -34.88824,
-    "name" : "ALLTECH_AGR"
-  },
-  {
-    "key" : "ALL_HLA_MKT",
-    "latitude" : -8.05787, 
-    "longitude" : -34.89308,
-    "name" : "ALLTECH_HLA"
-  },
-  {
-    "key" : "GHBN_ABVS1",
-    "latitude" : -8.2944, 
-    "longitude" : -35.0054,
-    "name" : "GHBN_ABVS1"
-  },
-  {
-    "key" : "GHBN_CCME0",
-    "latitude" : -8.16591, 
-    "longitude" : -34.91929,
-    "name" : "GHBN_CCME0"
-  },
-  {
-    "key" : "GHBN_ZNBAT",
-    "latitude" : -8.04001,
-    "longitude" : -34.89893,
-    "name" : "GHBN_ZNBAT"
-  },
-  {
-    "key" : "FOR_MTZ_MKT",
-    "latitude" : -8.11130,
-    "longitude" : -35.01195,
-    "name" : "FOR_MTZ_MKT"
+    "key" : "MC",
+    "latitude" : -8.08655, 
+    "longitude" : -34.89295,
+    "name" : "MALTA COMEX"
   },
   {
     "key" : "AEL_LOG",
