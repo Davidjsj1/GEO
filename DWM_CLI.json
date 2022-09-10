@@ -70,5 +70,11 @@
     "latitude" : -8.11130,
     "longitude" : -35.01195,
     "name" : "FOR_MTZ_MKT"
+  },
+  {
+    "key" : "AEL_LOG",
+    "latitude" : -8.11130,
+    "longitude" : -35.01195,
+    "name" : "AEL_LOG"
   }
 ]
