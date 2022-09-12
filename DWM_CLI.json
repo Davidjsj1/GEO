@@ -106,6 +106,41 @@
     "latitude" : -8.08655, 
     "longitude" : -34.89295,
     "name" : "MALTA COMEX"
+  },{
+    "key" : "RGL",
+    "latitude" : -8.11682, 
+    "longitude" : -34.90116,
+    "name" : "REGALIA"
+  },
+  {
+    "key" : "CWC",
+    "latitude" : -8.05323, 
+    "longitude" : -34.90086,
+    "name" : "COWORKING"
+  },
+  {
+    "key" : "MP",
+    "latitude" : -8.01902, 
+    "longitude" : -34.8615,
+    "name" : "MARMOPEDRAS"
+  },
+  {
+    "key" : "JR_CEA",
+    "latitude" : -8.0696, 
+    "longitude" : -34.94655,
+    "name" : "JR CEASA"
+  },
+  {
+    "key" : "JR_MTZ",
+    "latitude" : -7.92622,  
+    "longitude" : -34.90364,
+    "name" : "JR MATRIZ"
+  },
+  {
+    "key" : "MC",
+    "latitude" : -8.08655, 
+    "longitude" : -34.89295,
+    "name" : "MALTA COMEX"
   },
   {
     "key" : "AEL_LOG",
