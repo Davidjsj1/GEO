@@ -1,39 +1,39 @@
 [
   {
-    "key" : "PINA-MKT",
+    "key" : "CDB_PINA",
     "latitude" : -8.08931,
     "longitude" : -34.88268,
-    "name" : "PINA"
+    "name" : "CDB_PINA"
   },
   {
-    "key" : "IMBIRIBEIRA-MKT",
+    "key" : "CDB_IMBIRIBEIRA",
     "latitude" : -8.10885,
     "longitude" : -34.91158,
-    "name" : "IMBIRIBEIRA"
+    "name" : "CDB_IMBIRIBEIRA"
   },
   {
-    "key" : "AVNORTE-MKT",
+    "key" : "CDB_AV-NORTE",
     "latitude" : -8.02436,
     "longitude" : -34.91147,
-    "name" : "AVNORTE"
+    "name" : "CDB_AV-NORTE"
   },
   {
-    "key" : "IPSEP-MKT",
+    "key" : "CDB_IPSEP",
     "latitude" : -8.10689, 
     "longitude" : -34.92737,
-    "name" : "IPSEP"
+    "name" : "CDB_IPSEP"
   },
   {
-    "key" : "OLINDA-MKT",
+    "key" : "CDB_OLINDA",
     "latitude" : -7.99880, 
     "longitude" : -34.84571,
-    "name" : "OLINDA"
+    "name" : "CDB_OLINDA"
   },
   {
-    "key" : "MADALENA-MKT",
+    "key" : "CDB_MADALENA",
     "latitude" : -8.05795, 
     "longitude" : -34.90727,
-    "name" : "MADALENA"
+    "name" : "CDB_MADALENA"
   },
   {
     "key" : "ALL_AGR_MKT",
